@@ -1,0 +1,1 @@
+# AnalogAndDigitalSensors_SmartMethods
